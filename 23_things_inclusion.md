@@ -8,6 +8,8 @@ Zielgruppenbeschreibung.
 3. Kenne Universal Design.
 4. Beteilige die Zielgruppen an der Entwicklung.
 
+
+
 Umsetzung:
 
 5. Plane Zugänglichkeit von Beginn an und verankere sie in Anforderungen, Zeit und Budget.
