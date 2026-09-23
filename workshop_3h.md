@@ -21,7 +21,7 @@ comment:   presentation for workshop: InkluTrain
 
 # Agenda
 
-09:00-13:00
+09:00-12:00
 
 - Begrüßung, Ankommen
 - Einführung
