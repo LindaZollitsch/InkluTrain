@@ -1,6 +1,6 @@
 <!--
 
-author:   Katrin Anna Lehnen, Linda Zollitsch
+author:   Katrin Anna Lehnen, Linda Zollitsch, Andreas Christ
 
 
 
