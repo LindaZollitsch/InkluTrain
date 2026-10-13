@@ -26,6 +26,8 @@ Gestaltung, Beteiligung und wiederkehrende Prüfung.
 
 ## Inklusive Datenkompetenz (Posterding)
 
+![Posterding](./images/Inklusive%20DatenKultur_v01_LKA_2026-07-14.png)
+
 ### Worum geht es?
 
 Daten sind für die Forschung wichtig.
@@ -53,6 +55,8 @@ Lernangebote müssen einfach zugänglich sein-
 Computerprogramme sollen barrierefrei sein.
 
 ### Ergebnis
+
+Offene Wissenschaft ist mehr, als Daten im Internet bereitstellen.
 
 
 # Aus dem aktuellen Workshop
