@@ -16,14 +16,46 @@ vermitteln oder gestalten
 Nicht fragen: „Welche Behinderung hat die Person?“ Sondern: „Was möchte die Person tun
 – und was an unserer Gestaltung erschwert diese Handlung?“
 
-Barrieren werden erkennbar, wenn Angebot, Aufgabe, Person und Situation gemeinsam
-betrachtet werden.
+Barrieren werden erkennbar, wenn Angebot, Aufgabe, Person und Situation gemeinsam betrachtet werden.
 
 Mindestens zwei gleichwertige Zugänge entwickeln und eine konkrete Form der Beteiligung
 benennen.
 
 Barrierefreiheit zeigt sich in der Nutzung. Sie entsteht durch vorausschauende, anpassbare
 Gestaltung, Beteiligung und wiederkehrende Prüfung.
+
+## Inklusive Datenkompetenz (Posterding)
+
+### Worum geht es?
+
+Daten sind für die Forschung wichtig.
+
+Forschende sammeln, speichern, untersuchen und teilen Daten.
+
+Open Science bedeutet: Wissenschaft soll offen und zugänglich für alle sein.
+
+### Das Problem
+
+Manche Texte sind zu schwer und viele Fachwörter sind schwer zu verstehen.
+
+Manche Internetseiten sind nicht barrierefrei.
+
+--> Dann können viele Menschen nicht mitmachen.
+
+### Was bedeutet inklusive Datenkompetenz?
+
+Alle Menschen sollen Daten finden, verstehen und nutzen können.
+
+Imformationen müssen verständlich sein.
+
+Lernangebote müssen einfach zugänglich sein-
+
+Computerprogramme sollen barrierefrei sein.
+
+### Ergebnis
+
+
+# Aus dem aktuellen Workshop
 
 ### Zehn Empfehlungen
 
