@@ -1,4 +1,4 @@
-# Train the Trainer Erweiterhungsmodul "Inklusion"
+# Train the Trainer Erweiterungsmodul "Inklusion"
 
 Lernziele:
 
