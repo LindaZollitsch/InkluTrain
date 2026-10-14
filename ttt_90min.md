@@ -27,7 +27,14 @@ Gestaltung, Beteiligung und wiederkehrende Prüfung.
 
 ## Einstieg
 
-### Digitale Teilhabe
+Gesetzeslage!
+
+# Teilhabe
+
+Stufenmodell Partizipation
+
+## Digitale Teilhabe
+
 
 Alle (bzw. möglichst viele) Menschen haben die Möglichkeit, digitale Technologien und Angebote zu nutzen, mitzugestalten und davon zu profitieren.
 
@@ -46,9 +53,9 @@ Gründe für digitale Teilhabe:
     - Selbstbestimmung
     - Soziale Teilhabe im Alltag (Kommunikation, Informationsbeschaffung, Onlinebanking)
 
-#### Inhaltsbereiche digitaler Teilhabe
+### Inhaltsbereiche digitaler Teilhabe
 
-Datenkopetenz
+Datenkompetenz
 
 Digitalkompetenz
 
@@ -58,14 +65,96 @@ ABER AUCH:
 
 Bewusstsein dafür, dass Menschen unterschiedliche Bedürfnisse haben!
 
-#### Umsetzung
+#### Digitale Teilhabe am Beispiel Sprache
+
+-----
+
+**Leichte Sprache**
+
+"Leichte Sprache möchte Informationen für eine benachteiligte Personengruppe zugänglich machen und zielt auf eine zugängliche Kommunikation. Der fokussierte Personenkreis hat Schwierigkeiten beim Lesen und Verstehen eines Textes. Deshalb werden die Ausgangstexte beim Übertragen in Leichte Sprache nicht nur sprachlich stark vereinfacht, sondern oft auch auf den wesentlichen Inhalt reduziert."
+
+
+"Die wichtigsten Sprachregeln, die in allen Regelwerken wiederzufinden sind, lassen sich kurz und knapp zusammenfassen:
+
+Textebene
+
+persönliche Ansprache
+klare Gliederung
+Beispiele und Erklärungen
+Satzebene
+
+kurz und aktiv
+nur eine Aussage pro Satz
+Genitiv und Konjunktiv vermeiden
+Wortebene
+
+einfach
+konkret
+bekannt"
+
+^(https://lbit.hessen.de/landeskompetenzzentrum-barrierefreie-it/information-ueber-leichte-sprache/was-ist-leichte-sprache)^
+
+-----
+
+**Einfache Sprache**
+
+"Einfache Sprache richtet sich an die Mitte der Gesellschaft und will Informationen für eine breite Bevölkerungsgruppe zugänglich machen. Texte in Einfacher Sprache geben den Inhalt vollständig und korrekt in einer besser verständlichen Form wieder. Für die Einfache Sprache gibt es klare Vorgaben, die in zwei Normen ausformuliert sind: die internationale ISO-Norm Einfache Sprache – Teil 1: Grundsätze und Leitlinien (veröffentlicht im März 2024 in deutscher Fassung:  DIN ISO 24495-1:2024-03) und Teil 2: Juristische Kommunikation (veröffentlicht im Dezember 2025: DIN ISO 24495-2:2025-12) sowie die DIN-Norm Einfache Sprache – Anwendung für das Deutsche – Teil 1: Sprachspezifische Festlegungen (veröffentlicht am 26. April 2024: DIN 8581-1). Die ISO-Norm enthält die Grundsätze für die Einfache Sprache, während die DIN-Norm die Anforderungen für den deutschen Sprachraum genauer ausführt."
+
+^(https://lbit.hessen.de/landeskompetenzzentrum-barrierefreie-it/information-ueber-leichte-sprache/was-ist-leichte-sprache)^
+
+-----
+
+**Leichte Sprache vs. Einfache Sprache**
+
+"Leichte Sprache besitzt im Gegensatz zu Einfacher Sprache ein Regelwerk. Der größte Unterschied besteht vor allem darin, dass Texte in Leichter Sprache durch Personen aus der Zielgruppe überprüft werden müssen." 
+
+^(https://www.barrierefreiheit-dienstekonsolidierung.bund.de/Webs/PB/DE/barrierefreie_it/uebergreifende-anforderungen-web-und-app/leichte-sprache/leichte-sprache-artikel.html#doc18267126bodyText1)^
+
+"Die Unterschiede zwischen den beiden Sprachformen lassen sich auch erkennen, wenn man sie mit den entsprechenden Kompetenzlevels des Gemeinsamen Europäischen Referenzrahmens für Sprachen (kurz GER) vergleicht. Texte in Leichter Sprache entsprechen ungefähr dem Niveau A1 bis A2 beim Fremdsprachenerwerb (elementare Sprachverwendung). Texte in Einfacher Sprache richten sich an ein heterogenes Publikum und können zwischen den Sprachniveaus von A2 bis B2 (selbständige Sprachverwendung) variieren." 
+
+^(https://lbit.hessen.de/landeskompetenzzentrum-barrierefreie-it/information-ueber-leichte-sprache/was-ist-leichte-sprache)^
+
+### Umsetzung: Universal Design
 
 Partizipation ermöglichen (wie?)
 
 Fokus auf marginalisierte Gruppen, alternative Wissensformen und individuelle Lebensrealitäten
 
---> Universal Design
+→ Universal Design
 
+- Zugänglichkeit für alle, unabhängig von Fähigkeiten, Erfahrungen oder sozialen Umständen
+- Personenzentrierte Perspektive, Bewusstseinsbildung und (Erfahrungs-)Raumgestaltung
+
+**Universal Design**
+
+"[Universelles Design bedeutet] ein Design von Produkten, Umfeldern, Programmen und Dienstleistungen in der Weise, dass sie von allen Menschen möglichst weitgehend ohne eine Anpassung oder ein spezielles Design genutzt werden können […]."
+
+^(Artikel 2 UN-BRK, 2008)^
+
+## Inklusive Datenzugänge
+
+**Tools und Formate:**
+
+- Multimodale, -sensorische und personenzentrierte Formate einsetzen:
+    - Erklär-Videos
+    - Erklär-Texte
+    - Erklär-Hörversionen
+    - Visualisierungen (z.B. Grafiken/Piktogramme)
+
+- Angepasste Designs (UI/UX)
+- Inklusive und barrieresensible Webseiten
+
+- Partizipative Formate
+
+→ Teilhabe beginnt mit Zuhören!
+
+**Methoden:**
+
+- Storytelling: Daten in Geschichten einbetten → Sinn, Struktur und Erinnerung.
+- Edutainment: Wissensvermittlung unterhaltsam gestalten.
+- Game-based Learning: Lern-Prozesse durch spielerische Szenarien, Simulationen oder Challenges vertiefen.
+- Gamification: Spielerische Elemente für Motivation und Teilhabe nutzen.
+- Micro Learning: Komplexe Inhalte in kleine, leicht verdauliche Lern-Einheiten aufteilen
 
 ## Inklusive Datenkompetenz (Posterding)
 
