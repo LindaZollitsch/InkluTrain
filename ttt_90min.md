@@ -24,9 +24,52 @@ benennen.
 Barrierefreiheit zeigt sich in der Nutzung. Sie entsteht durch vorausschauende, anpassbare
 Gestaltung, Beteiligung und wiederkehrende Prüfung.
 
+
+## Einstieg
+
+### Digitale Teilhabe
+
+Alle (bzw. möglichst viele) Menschen haben die Möglichkeit, digitale Technologien und Angebote zu nutzen, mitzugestalten und davon zu profitieren.
+
+Gründe für digitale Teilhabe:
+
+- gesellschaftlich: 
+    - Chancengleichheit, Inklusion
+    - Demokratische Teilhabe
+    - Zugang zu Bildung, Arbeit, Gesundheitsversorgnung und Freizeitangeboten
+
+- wirtschaftlich: 
+    - Zugang zum Arbeitsmarkt durch digitale Kompetenzen
+    - Innovationsfähigkeit
+
+- persönlich: 
+    - Selbstbestimmung
+    - Soziale Teilhabe im Alltag (Kommunikation, Informationsbeschaffung, Onlinebanking)
+
+#### Inhaltsbereiche digitaler Teilhabe
+
+Datenkopetenz
+
+Digitalkompetenz
+
+Medienkompetenz
+
+ABER AUCH:
+
+Bewusstsein dafür, dass Menschen unterschiedliche Bedürfnisse haben!
+
+#### Umsetzung
+
+Partizipation ermöglichen (wie?)
+
+Fokus auf marginalisierte Gruppen, alternative Wissensformen und individuelle Lebensrealitäten
+
+--> Universal Design
+
+
 ## Inklusive Datenkompetenz (Posterding)
 
-![Posterding](./images/Inklusive%20DatenKultur_v01_LKA_2026-07-14.png)
+![Posterding](../images/Inklusive%20DatenKultur_v01_LKA_2026-07-14.png)
 
 ### Worum geht es?
 
