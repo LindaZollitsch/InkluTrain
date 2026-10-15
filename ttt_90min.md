@@ -5,7 +5,7 @@ Lernziele:
 - Lernende können Barrieren benennen.
 - Lernende können 
 
-Umfang: 90 Minuten
+Umfang: 60-90 Minuten
 
 Inhalte:
 
@@ -29,9 +29,9 @@ Gestaltung, Beteiligung und wiederkehrende Prüfung.
 
 # Gesetzeslage für Teilhabe
 
-- UN-Behindertenrechtskonvention (UN-BRK)
+- UN-Behindertenrechtskonvention (UN-BRK): https://www.publikationen-bundesregierung.de/resource/blob/2277952/2396992/4200e3f37c1ba264b81b41458fbbc065/un-behindertenrechtskonvention-synopse-download-bbmb-data.pdf?download=1
 
-- Behindertengleichstellungsgesetz (BGG)
+- Behindertengleichstellungsgesetz (BGG): https://www.gesetze-im-internet.de/bgg/index.html
 
 - Barrierefreie-Informationstechnik-Verordnung (BITV 2.0)
 
