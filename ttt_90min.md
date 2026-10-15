@@ -27,7 +27,18 @@ Gestaltung, Beteiligung und wiederkehrende Prüfung.
 
 ## Einstieg
 
-Gesetzeslage!
+# Gesetzeslage für Teilhabe
+
+- UN-Behindertenrechtskonvention (UN-BRK)
+
+- Behindertengleichstellungsgesetz (BGG)
+
+- Barrierefreie-Informationstechnik-Verordnung (BITV 2.0)
+
+- EU-Richtlinie 2016/2102
+
+- Barrierefreiheitsstärkungsgesetz (BFSG)
+
 
 # Teilhabe
 
@@ -38,11 +49,17 @@ Stufenmodell Partizipation
 
 Alle (bzw. möglichst viele) Menschen haben die Möglichkeit, digitale Technologien und Angebote zu nutzen, mitzugestalten und davon zu profitieren.
 
+Beispiele:
+
+- Zugang zum Internet und digitalen Geräten
+- Nutzung von Onlinedinensten (Bildungsangebote, Behördengänge, soziale Medien, Open Data Portale)
+- Digitale Kommunikation und Mitbestimmung
+
 Gründe für digitale Teilhabe:
 
 - gesellschaftlich: 
     - Chancengleichheit, Inklusion
-    - Demokratische Teilhabe
+    - Demokratische Teilhabe (Petitionen oder Wahlen online)
     - Zugang zu Bildung, Arbeit, Gesundheitsversorgnung und Freizeitangeboten
 
 - wirtschaftlich: 
@@ -141,12 +158,19 @@ Fokus auf marginalisierte Gruppen, alternative Wissensformen und individuelle Le
     - Erklär-Hörversionen
     - Visualisierungen (z.B. Grafiken/Piktogramme)
 
-- Angepasste Designs (UI/UX)
+- Angepasste Designs (UI)
 - Inklusive und barrieresensible Webseiten
 
 - Partizipative Formate
 
 → Teilhabe beginnt mit Zuhören!
+
+-----
+
+- Multimodal: verschiedene Darstellungsformen (Video mit Text und Ton)
+- Multisensorisch: verschiedene Sinne (Lernspiel mit Tasten und Hören)
+- UI (User Interface): Benutzeroberfläche (Buttons, Menüs, Farben, Layouts)
+
 
 **Methoden:**
 
@@ -155,6 +179,7 @@ Fokus auf marginalisierte Gruppen, alternative Wissensformen und individuelle Le
 - Game-based Learning: Lern-Prozesse durch spielerische Szenarien, Simulationen oder Challenges vertiefen.
 - Gamification: Spielerische Elemente für Motivation und Teilhabe nutzen.
 - Micro Learning: Komplexe Inhalte in kleine, leicht verdauliche Lern-Einheiten aufteilen
+
 
 ## Inklusive Datenkompetenz (Posterding)
 
@@ -206,6 +231,22 @@ Zielgruppenbeschreibung.
 8. Beteiligen Sie Zielgruppen vor grundlegenden Gestaltungsentscheidungen.
 9. Dokumentieren Sie Rückmeldungen, Entscheidungen, verbleibende Barrieren und Alternativen.
 10. Prüfen Sie regelmäßig erneut: Zielgruppen, Technik und Nutzungssituationen verändern sich.
+
+-----
+
+**Empfehlungen aus dem FORGE2025-Workshop**
+
+- Alle Zielgruppen von Anfang an mitdenken
+- Unterschiedliche Zielgruppen frühzeitig mit einbeziehen
+- Bedarfsanalysen hinsichtlich personenzentrierter Angebote durchführen
+- Konzepte partizipativ erarbeiten
+- Usability Tests mit den Zielgruppen durchführen
+- Iterative Prozesse nutzen
+
+- Universell statt standardisiert planen und umsetzen
+- Weniger ist mehr – Praktikabilität vs. „Fanciness“
+- Sich trauen, mal etwas anders als gewohnt zu machen
+
 
 
 ### Der 7-Schritte-Kurzleitfaden
