@@ -13,19 +13,20 @@ Zielgruppe: FDM-Multiplikator:innen, Datenmanager:innen und Personen, die FDM-An
 vermitteln oder gestalten
 
 
+
+## Einstieg
+
+
 Nicht fragen: „Welche Behinderung hat die Person?“ Sondern: „Was möchte die Person tun
 – und was an unserer Gestaltung erschwert diese Handlung?“
 
 Barrieren werden erkennbar, wenn Angebot, Aufgabe, Person und Situation gemeinsam betrachtet werden.
 
-Mindestens zwei gleichwertige Zugänge entwickeln und eine konkrete Form der Beteiligung
-benennen.
+Mindestens zwei gleichwertige Zugänge entwickeln und eine konkrete Form der Beteiligung benennen.
 
 Barrierefreiheit zeigt sich in der Nutzung. Sie entsteht durch vorausschauende, anpassbare
 Gestaltung, Beteiligung und wiederkehrende Prüfung.
 
-
-## Einstieg
 
 # Gesetzeslage für Teilhabe
 
@@ -58,29 +59,30 @@ Beispiele:
 Gründe für digitale Teilhabe:
 
 - gesellschaftlich: 
+
     - Chancengleichheit, Inklusion
     - Demokratische Teilhabe (Petitionen oder Wahlen online)
     - Zugang zu Bildung, Arbeit, Gesundheitsversorgnung und Freizeitangeboten
 
 - wirtschaftlich: 
+
     - Zugang zum Arbeitsmarkt durch digitale Kompetenzen
     - Innovationsfähigkeit
 
 - persönlich: 
+
     - Selbstbestimmung
     - Soziale Teilhabe im Alltag (Kommunikation, Informationsbeschaffung, Onlinebanking)
 
 ### Inhaltsbereiche digitaler Teilhabe
 
-Datenkompetenz
-
-Digitalkompetenz
-
-Medienkompetenz
+- Datenkompetenz
+- Digitalkompetenz
+- Medienkompetenz
 
 ABER AUCH:
 
-Bewusstsein dafür, dass Menschen unterschiedliche Bedürfnisse haben!
+- Bewusstsein dafür, dass Menschen unterschiedliche Bedürfnisse haben!
 
 #### Digitale Teilhabe am Beispiel Sprache
 
