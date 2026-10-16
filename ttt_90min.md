@@ -12,10 +12,10 @@ Inhalte:
 Zielgruppe: FDM-Multiplikator:innen, Datenmanager:innen und Personen, die FDM-Angebote
 vermitteln oder gestalten
 
+Lernziele:
 
 
 ## Einstieg
-
 
 Nicht fragen: „Welche Behinderung hat die Person?“ Sondern: „Was möchte die Person tun
 – und was an unserer Gestaltung erschwert diese Handlung?“
