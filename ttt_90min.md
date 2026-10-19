@@ -1,19 +1,5 @@
 # Train the Trainer Erweiterungsmodul "Inklusion"
 
-Lernziele:
-
-- Lernende können Barrieren benennen.
-- Lernende können 
-
-Umfang: 60-90 Minuten
-
-Inhalte:
-
-Zielgruppe: FDM-Multiplikator:innen, Datenmanager:innen und Personen, die FDM-Angebote
-vermitteln oder gestalten
-
-Lernziele:
-
 
 ## Einstieg
 
@@ -150,7 +136,7 @@ Fokus auf marginalisierte Gruppen, alternative Wissensformen und individuelle Le
 
 ^(Artikel 2 UN-BRK, 2008)^
 
-## Inklusive Datenzugänge
+# Inklusive Datenzugänge
 
 **Tools und Formate:**
 
