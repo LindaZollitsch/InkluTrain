@@ -19,10 +19,6 @@ vermitteln oder gestalten
 
 ## Ablauf und Struktur
 
-Einstieg
-
-Gesetzliche Grundlagen
-
 
 |Thema/Abschnitt 							|Zeit    |Wer| Ergebnis liegt wo? |
 |-------------------------------------------|--------|----|---------------------|
