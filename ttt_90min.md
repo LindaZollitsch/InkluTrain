@@ -20,11 +20,11 @@ Gestaltung, Beteiligung und wiederkehrende Prüfung.
 
 - Behindertengleichstellungsgesetz (BGG): https://www.gesetze-im-internet.de/bgg/index.html
 
-- Barrierefreie-Informationstechnik-Verordnung (BITV 2.0)
+- Barrierefreie-Informationstechnik-Verordnung (BITV 2.0): https://www.gesetze-im-internet.de/bitv_2_0/BJNR184300011.html 
 
-- EU-Richtlinie 2016/2102
+- EU-Richtlinie 2016/2102: https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:32016L2102 
 
-- Barrierefreiheitsstärkungsgesetz (BFSG)
+- Barrierefreiheitsstärkungsgesetz (BFSG): https://www.gesetze-im-internet.de/bfsg/ 
 
 
 # Teilhabe
