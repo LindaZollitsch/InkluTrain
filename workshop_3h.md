@@ -24,8 +24,35 @@ comment:   presentation for workshop: InkluTrain
 09:00-12:00
 
 - Begrüßung, Ankommen
-- Einführung
-- ...
-- ...
-- ...
-- Abschluss
+- Theorieimpuls 1: FDM gestaltet Teilhabe
+- Praxis 1: Barrieren und Auswirkungen erkennen
+- Reflexion & Sicherung
+- Theorieimpuls 2: universell, anpassbar, partizipativ
+- Praxis 2: FDM-Materialien verbessern
+- Handlungsempfehlungen priorisieren
+- Transfer & Abschluss
+
+
+## Theorieimpuls 2 (20 Min)
+
+universell, anpassbar, partizipativ
+---
+
+|Prizip 							|Konkrete Bedeutung   |
+|-------------------------------------------|--------|
+|Universell |  Von Beginn an klare Strukturen und mehrere gleichwertige Zugänge vorsehen.  |
+|Anpassbar | Darstellung, Bedienung, Komplexität oder Ausgabe an unterschiedliche Bedürfnisse
+anpassen. |
+|Partizipativ | Zielgruppen nicht nur testen lassen, sondern früh an Anforderungen und Entscheidungen
+beteiligen.  |
+
+
+
+### Drei Gestaltungsprinzipen
+
+
+## Praxis 2: FDM-Produkt verbessern (35 Min)
+
+Mehrere gleichwertige Zugänge und Beteiligungsideen
+---
+
