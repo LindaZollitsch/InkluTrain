@@ -47,12 +47,58 @@ anpassen. |
 beteiligen.  |
 
 
+Grundidee:
+
+- Gestaltung muss für alle zugänglich sein – unabhängig von Fähigkeiten, Erfahrungen oder sozialen Umständen.
+
+Leitprinzipien:
+
+- Personenzentrierte Perspektive, Bewusstseins-Bildung und (Erfahrungs-)Raum-Gestaltung.
+
+Kernaussage:
+- „Ban the average – think from edge to edge!“
+
+
+
 
 ### Universell
+
+Was verstehen wir unter „universelles Design“?
+
+
+„[Universelles Design bedeutet] ein Design von Produkten, Umfeldern, Programmen und Dienstleistungen in der Weise, dass sie von allen Menschen möglichst weitgehend ohne eine Anpassung oder ein spezielles Design genutzt werden können […].“ 
+
+         ^(Artikel 2 UN-BRK, 2008).^
+
+
+Das bedeutet nicht, dass wir für jede einzelne Person eine individuelle Lösung finden werden.
+
+Aber, wir können Daten und Datenzugänge so gestalten, dass alle sich Inhalte entsprechend ihrer Bedürfnisse anpassen können.
+
+
+
 
 ### Anpassbar
 
 ### Partizipativ
+
+Partizipation ermöglichen:
+
+- Daten-Praktiken so gestalten, dass unterschiedliche Perspektiven sichtbar werden.
+
+Besonderer Fokus:
+
+- Marginalisierte Gruppen, alternative Wissens-Formen, individuelle Lebens-Realitäten.
+
+Herausforderung:
+
+- Inklusion spielt bisher kaum eine Rolle.
+
+Vision:
+
+- Offene Wissenschaft für alle = gerechter Zugang zu Daten und Erkenntnissen für alle!
+
+
 
 
 ## Praxis 2: FDM-Produkt verbessern (35 Min)
