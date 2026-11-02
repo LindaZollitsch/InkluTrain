@@ -75,7 +75,27 @@ Das bedeutet nicht, dass wir für jede einzelne Person eine individuelle Lösung
 
 Aber, wir können Daten und Datenzugänge so gestalten, dass alle sich Inhalte entsprechend ihrer Bedürfnisse anpassen können.
 
+#### Die 7 Prinzipien des Universal Design
 
+1. EQUITABLE USE: The design is useful and marketable to people with diverse abilities.
+2. FLEXIBILITY IN USE: FLEXIBILITY IN USE: The design accommodates a wide range of individual preferences and abilities.
+3. SIMPLE AND INTUITIVE USE: Use of the design is easy to understand, regardless of the user’s experience, knowledge, language skills, or current concentration level.
+4. PERCEPTIBLE INFORMATION: The design communicates necessary information effectively to the user, regardless of ambient conditions or the user’s sensory abilities. 
+5. TOLERANCE FOR ERROR: The design minimizes hazards and the adverse consequences of accidental or unintended actions.
+6. LOW PHYSICAL EFFORT: The design can be used efficiently and comfortably and with a minimum of fatigue.
+7. SIZE AND SPACE FOR APPROACH AND USE: Appropriate size and space is provided for approach, reach, manipulation, and use regardless of user’s body size, posture, or mobility.
+
+1. GLEICHBERECHTIGTE NUTZUNG: Das Design ist für Menschen mit unterschiedlichen Fähigkeiten nützlich und marktfähig.
+2. FLEXIBILITÄT BEI DER NUTZUNG: Das Design berücksichtigt ein breites Spektrum individueller Vorlieben und Fähigkeiten.
+3. EINFACHE UND INTUITIVE NUTZUNG: Die Nutzung des Designs ist leicht verständlich, unabhängig von der Erfahrung, dem Wissen, den Sprachkenntnissen oder dem aktuellen Konzentrationsniveau der Nutzenden.
+4. WAHRNEHMBARE INFORMATIONEN: Das Design vermittelt den Nutzenden die notwendigen Informationen effektiv, unabhängig von den Umgebungsbedingungen oder den sensorischen Fähigkeiten der Nutzenden.
+5. FEHLERTOLERANZ: Das Design minimiert Gefahren und die negativen Folgen versehentlicher oder unbeabsichtigter Handlungen.
+6. GERINGER KÖRPERLICHER AUFWAND: Das Design lässt sich effizient, bequem und mit minimaler Ermüdung nutzen.
+7. GRÖSSE UND PLATZ FÜR ZUGANG UND NUTZUNG: Es werden angemessene Größe und Platz für den Zugang, das Erreichen, die Handhabung und die Nutzung bereitgestellt, unabhängig von der Körpergröße, Körperhaltung oder Mobilität der Nutzenden.
+
+Übersetzt mit DeepL.com
+
+^https://design.ncsu.edu/wp-content/uploads/2022/11/principles-of-universal-design.pdf^
 
 
 ### Anpassbar
@@ -118,9 +138,9 @@ Wahlmöglichkeiten schaffen.
 - Kann eine Verbesserung eine neue Barriere erzeugen?
 - Welche Entscheidung muss mit Nutzenden getroffen werden?
 
->![attention] **Arbeitsregel**
+> **Arbeitsregel**
 >
->Mindestens zwei gleichwertige Zugänge entwickeln und eine konkrete Form der Beteiligung benennen.
+> Mindestens zwei gleichwertige Zugänge entwickeln und eine konkrete Form der Beteiligung benennen.
 
 
 ## Handlungsempfehlungen
