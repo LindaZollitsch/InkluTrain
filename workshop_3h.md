@@ -75,6 +75,12 @@ Das bedeutet nicht, dass wir für jede einzelne Person eine individuelle Lösung
 
 Aber, wir können Daten und Datenzugänge so gestalten, dass alle sich Inhalte entsprechend ihrer Bedürfnisse anpassen können.
 
+Breite Zugänglichkeit von Anfang an. (https://www.institut-fuer-menschenrechte.de/fileadmin/Redaktion/Publikationen/Fact_Sheet/Factsheet_Barrierefreiheit_und_Universelles_Design.pdf)
+
+
+
+
+
 #### Die 7 Prinzipien des Universal Design
 
 1. EQUITABLE USE: The design is useful and marketable to people with diverse abilities.
@@ -85,18 +91,19 @@ Aber, wir können Daten und Datenzugänge so gestalten, dass alle sich Inhalte e
 6. LOW PHYSICAL EFFORT: The design can be used efficiently and comfortably and with a minimum of fatigue.
 7. SIZE AND SPACE FOR APPROACH AND USE: Appropriate size and space is provided for approach, reach, manipulation, and use regardless of user’s body size, posture, or mobility.
 
-1. GLEICHBERECHTIGTE NUTZUNG: Das Design ist für Menschen mit unterschiedlichen Fähigkeiten nützlich und marktfähig.
-2. FLEXIBILITÄT BEI DER NUTZUNG: Das Design berücksichtigt ein breites Spektrum individueller Vorlieben und Fähigkeiten.
-3. EINFACHE UND INTUITIVE NUTZUNG: Die Nutzung des Designs ist leicht verständlich, unabhängig von der Erfahrung, dem Wissen, den Sprachkenntnissen oder dem aktuellen Konzentrationsniveau der Nutzenden.
-4. WAHRNEHMBARE INFORMATIONEN: Das Design vermittelt den Nutzenden die notwendigen Informationen effektiv, unabhängig von den Umgebungsbedingungen oder den sensorischen Fähigkeiten der Nutzenden.
-5. FEHLERTOLERANZ: Das Design minimiert Gefahren und die negativen Folgen versehentlicher oder unbeabsichtigter Handlungen.
-6. GERINGER KÖRPERLICHER AUFWAND: Das Design lässt sich effizient, bequem und mit minimaler Ermüdung nutzen.
-7. GRÖSSE UND PLATZ FÜR ZUGANG UND NUTZUNG: Es werden angemessene Größe und Platz für den Zugang, das Erreichen, die Handhabung und die Nutzung bereitgestellt, unabhängig von der Körpergröße, Körperhaltung oder Mobilität der Nutzenden.
+1. GLEICHBERECHTIGTE NUTZUNG (EQUITABLE USE): Das Design ist für Menschen mit unterschiedlichen Fähigkeiten nützlich und marktfähig.
+2. FLEXIBILITÄT BEI DER NUTZUNG (FLEXIBILITY IN USE): Das Design berücksichtigt ein breites Spektrum individueller Vorlieben und Fähigkeiten.
+3. EINFACHE UND INTUITIVE NUTZUNG (IMPLE AND INTUITIVE USE): Die Nutzung des Designs ist leicht verständlich, unabhängig von der Erfahrung, dem Wissen, den Sprachkenntnissen oder dem aktuellen Konzentrationsniveau der Nutzenden.
+4. WAHRNEHMBARE INFORMATIONEN (PERCEPTIBLE INFORMATION): Das Design vermittelt den Nutzenden die notwendigen Informationen effektiv, unabhängig von den Umgebungsbedingungen oder den sensorischen Fähigkeiten der Nutzenden.
+5. FEHLERTOLERANZ (TOLERANCE FOR ERROR): Das Design minimiert Gefahren und die negativen Folgen versehentlicher oder unbeabsichtigter Handlungen.
+6. GERINGER KÖRPERLICHER AUFWAND (LOW PHYSICAL EFFORT): Das Design lässt sich effizient, bequem und mit minimaler Ermüdung nutzen.
+7. GRÖSSE UND PLATZ FÜR ZUGANG UND NUTZUNG (SIZE AND SPACE FOR APPROACH AND USE): Es werden angemessene Größe und Platz für den Zugang, das Erreichen, die Handhabung und die Nutzung bereitgestellt, unabhängig von der Körpergröße, Körperhaltung oder Mobilität der Nutzenden.
 
 Übersetzt mit DeepL.com
 
 ^https://design.ncsu.edu/wp-content/uploads/2022/11/principles-of-universal-design.pdf^
 
+^https://www.nolimits.land/die-7-prinzipien-des-universal-design/^
 
 ### Anpassbar
 
