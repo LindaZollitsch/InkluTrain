@@ -32,6 +32,7 @@ comment:   presentation for workshop: InkluTrain
 - Handlungsempfehlungen priorisieren
 - Transfer & Abschluss
 
+# Zugänge gestalten
 
 ## Theorieimpuls 2 (20 Min)
 
@@ -128,7 +129,7 @@ Vision:
 
 
 
-## Praxis 2: FDM-Produkt verbessern (35 Min)
+## Praxis 2: FDM-Material verbessern (35 Min)
 
 Mehrere gleichwertige Zugänge und Beteiligungsideen
 ---
