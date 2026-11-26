@@ -14,7 +14,30 @@ Barrierefreiheit zeigt sich in der Nutzung. Sie entsteht durch vorausschauende, 
 Gestaltung, Beteiligung und wiederkehrende Prüfung.
 
 
-# Gesetzeslage für Teilhabe
+# Rechtliche Grundlagen für Teilhabe
+
+## Einstiegsübung Recht
+
+Übung: Ampel
+
+Zeit: 5 Minuten
+
+Aufgabenstellung: Von welchen der rechtlichen Grundlagen zur Teilhabe haben Sie bereits gehört? Ordnen Sie zu. Grün = kenne ich, gelb = habe ich schon mal von gehört, kann ich aber nichts zu sagen, rot = kenne ich nicht.
+
+
+|rechtliche Grundlage               	|rot  |gelb |grün |
+|---------------------------------------|-----|-----|-----|
+|
+|Behindertengleichstellungsgesetz (BGG) |     |     |     |
+|Barrierefreie-Informationstechnik-Verordnung (BITV 2.0) |     |     |     | 
+|EU-Richtlinie 2016/2102                |     |     |     |
+|Barrierefreiheitsstärkungsgesetz (BFSG)  |     |     |     |
+
+
+
+
+
+## Die rechtlichen Grundlagen
 
 - UN-Behindertenrechtskonvention (UN-BRK): https://www.publikationen-bundesregierung.de/resource/blob/2277952/2396992/4200e3f37c1ba264b81b41458fbbc065/un-behindertenrechtskonvention-synopse-download-bbmb-data.pdf?download=1
 
