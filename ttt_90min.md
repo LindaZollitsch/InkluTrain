@@ -42,9 +42,9 @@ Aufgabenstellung: Von welchen der rechtlichen Grundlagen zur Teilhabe haben Sie 
   <thead>
     <tr>
       <th scope="col">rechtliche Grundlage</th>
-      <th scope="col">grün</th>
-      <th scope="col">orange</th>
-      <th scope="col">rot</th>
+      <th scope="col"><span style="color: green;">grün</span></th>
+      <th scope="col"><span style="color: orange;">orange</span></th>
+      <th scope="col"><span style="color: red;">rot</span></th>
     </tr>
   </thead>
   <tbody>
