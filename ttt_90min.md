@@ -35,9 +35,42 @@ Aufgabenstellung: Von welchen der rechtlichen Grundlagen zur Teilhabe haben Sie 
 |EU-Richtlinie 2016/2102                |     |     |     |
 |Barrierefreiheitsstärkungsgesetz (BFSG)  |     |     |     |
 
+<table>
+  <tr>
+    <td style="background-color: #d1fae5; color: #036d1d;">Grüne Zelle</td>
+    <td>Normale Zelle</td>
+  </tr>
+</table>
 
-<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: red; "></div>
 
+<table>
+  <caption>rechtliche Grundlagen</caption>
+  <thead>
+    <tr>
+      <th scope="col">rechtliche Grundlage</th>
+      <th scope="col">grün</th>
+      <th scope="col">orange</th>
+      <th scope="col">rot</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="background-color: #d1fae5; color: #036d1d;">Grüne Zelle</td>
+      <td>Tastatur</td>
+      <td>49,00 €</td>
+    </tr>
+    <tr>
+      <td>Maus</td>
+      <td>29,00 €</td>
+    </tr>
+  </tbody>
+  <tfoot>
+    <tr>
+      <th scope="row">Gesamt</th>
+      <td>78,00 €</td>
+    </tr>
+  </tfoot>
+</table>
 
 
 ## Die rechtlichen Grundlagen
