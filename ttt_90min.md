@@ -36,6 +36,28 @@ Aufgabenstellung: Von welchen der rechtlichen Grundlagen zur Teilhabe haben Sie 
 |Barrierefreiheitsstärkungsgesetz (BFSG)  |     |     |     |
 
 
+<table>
+  <thead>
+    <tr>
+      <th>rechtliche Grundlage</th>
+      <th>rot</th>
+      <th>gelb</th>
+      <th>grün</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="background-color: #d4edda; color: #155724;">Erledigt</td>
+      <td>Dokumentation schreiben</td>
+    </tr>
+    <tr>
+      <td style="background-color: #f8d7da; color: #721c24;">Offen</td>
+      <td>Review abwarten</td>
+    </tr>
+  </tbody>
+</table>
+
+
 ## Die rechtlichen Grundlagen
 
 - UN-Behindertenrechtskonvention (UN-BRK): https://www.publikationen-bundesregierung.de/resource/blob/2277952/2396992/4200e3f37c1ba264b81b41458fbbc065/un-behindertenrechtskonvention-synopse-download-bbmb-data.pdf?download=1
