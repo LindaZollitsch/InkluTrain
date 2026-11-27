@@ -16,6 +16,8 @@ Gestaltung, Beteiligung und wiederkehrende Prüfung.
 
 # Rechtliche Grundlagen für Teilhabe
 
+image
+
 ## Einstiegsübung Recht
 
 Übung: Ampel
@@ -28,7 +30,7 @@ Aufgabenstellung: Von welchen der rechtlichen Grundlagen zur Teilhabe haben Sie 
 |rechtliche Grundlage               	|rot  |gelb |grün |
 |---------------------------------------|-----|-----|-----|
 |
-|Behindertengleichstellungsgesetz (BGG) |     |     |     |
+|Behindertengleichstellungsgesetz (BGG) |span style="background-color: red;"</span>     |     |     |
 |Barrierefreie-Informationstechnik-Verordnung (BITV 2.0) |     |     |     | 
 |EU-Richtlinie 2016/2102                |     |     |     |
 |Barrierefreiheitsstärkungsgesetz (BFSG)  |     |     |     |
