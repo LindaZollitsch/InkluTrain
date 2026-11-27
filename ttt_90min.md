@@ -54,6 +54,24 @@ Aufgabenstellung: Von welchen der rechtlichen Grundlagen zur Teilhabe haben Sie 
       <td style="background-color: #d1fae5; color: #d3a305;">Orange</td>
       <td style="background-color: #d1fae5; color: #ca0404;">Rot</td>
       </tr>
+      <tr>
+      <td>Barrierefreie-Informationstechnik-Verordnung (BITV 2.0)</td>
+      <td style="background-color: #d1fae5; color: #036d1d;">Grün</td>
+      <td style="background-color: #d1fae5; color: #d3a305;">Orange</td>
+      <td style="background-color: #d1fae5; color: #ca0404;">Rot</td>
+      </tr>
+      <tr>
+      <td>EU-Richtlinie 2016/2102</td>
+      <td style="background-color: #d1fae5; color: #036d1d;">Grün</td>
+      <td style="background-color: #d1fae5; color: #d3a305;">Orange</td>
+      <td style="background-color: #d1fae5; color: #ca0404;">Rot</td>
+      </tr>
+      <tr>
+      <td>Barrierefreiheitsstärkungsgesetz (BFSG)</td>
+      <td style="background-color: #d1fae5; color: #036d1d;">Grün</td>
+      <td style="background-color: #d1fae5; color: #d3a305;">Orange</td>
+      <td style="background-color: #d1fae5; color: #ca0404;">Rot</td>
+      </tr>
       <td>Barrierefreie-Informationstechnik-Verordnung (BITV 2.0)</td>
       <td>49,00 €</td>
     </tr>
