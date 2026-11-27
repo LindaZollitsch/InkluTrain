@@ -35,12 +35,6 @@ Aufgabenstellung: Von welchen der rechtlichen Grundlagen zur Teilhabe haben Sie 
 |EU-Richtlinie 2016/2102                |     |     |     |
 |Barrierefreiheitsstärkungsgesetz (BFSG)  |     |     |     |
 
-<table>
-  <tr>
-    <td style="background-color: #d1fae5; color: #036d1d;">Grüne Zelle</td>
-    <td>Normale Zelle</td>
-  </tr>
-</table>
 
 
 <table>
