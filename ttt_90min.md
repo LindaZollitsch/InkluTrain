@@ -30,7 +30,7 @@ Aufgabenstellung: Von welchen der rechtlichen Grundlagen zur Teilhabe haben Sie 
 |rechtliche Grundlage               	|<span style="color: red;">rot</span>  |gelb |grün |
 |---------------------------------------|-----|-----|-----|
 |
-|Behindertengleichstellungsgesetz (BGG) |     |     |     |
+|Behindertengleichstellungsgesetz (BGG) |<span style="background-color:red">rot</span>     |     |     |
 |Barrierefreie-Informationstechnik-Verordnung (BITV 2.0) |     |     |     | 
 |EU-Richtlinie 2016/2102                |     |     |     |
 |Barrierefreiheitsstärkungsgesetz (BFSG)  |     |     |     |
