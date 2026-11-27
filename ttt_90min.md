@@ -24,10 +24,10 @@ image
 
 Zeit: 5 Minuten
 
-Aufgabenstellung: Von welchen der rechtlichen Grundlagen zur Teilhabe haben Sie bereits gehört? Ordnen Sie zu. Grün = kenne ich, gelb = habe ich schon mal von gehört, kann ich aber nichts zu sagen, rot = kenne ich nicht.
+Aufgabenstellung: Von welchen der rechtlichen Grundlagen zur Teilhabe haben Sie bereits gehört? Ordnen Sie zu. Grün = kenne ich, orange = habe ich schon mal von gehört, kann ich aber nichts zu sagen, rot = kenne ich nicht.
 
 
-|rechtliche Grundlage               	|<span style="color: red;">rot</span>|<span style="color: yellow;">gelb</span>|<span style="color: green;">grün</span>|
+|rechtliche Grundlage               	|<span style="color: red;">rot</span>|<span style="color: orange;">orange</span>|<span style="color: green;">grün</span>|
 |---------------------------------------|-----|-----|-----|
 |
 |Behindertengleichstellungsgesetz (BGG) |<span style="background-color:red">       </span> |<span style="background-color:yellow">       </span>|<span style="background-color:green">       </span> |
