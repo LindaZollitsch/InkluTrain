@@ -27,35 +27,14 @@ Zeit: 5 Minuten
 Aufgabenstellung: Von welchen der rechtlichen Grundlagen zur Teilhabe haben Sie bereits gehört? Ordnen Sie zu. Grün = kenne ich, gelb = habe ich schon mal von gehört, kann ich aber nichts zu sagen, rot = kenne ich nicht.
 
 
-|rechtliche Grundlage               	|<span style="color: red;">rot</span>  |gelb |grün |
+|rechtliche Grundlage               	|<span style="color: red;">rot</span>|<span style="color: yellow;">gelb</span>|<span style="color: green;">grün</span>|
 |---------------------------------------|-----|-----|-----|
 |
-|Behindertengleichstellungsgesetz (BGG) |<span style="background-color:red">rot</span>     |     |     |
+|Behindertengleichstellungsgesetz (BGG) |<span style="background-color:red">       </span> |<span style="background-color:yellow">       </span>|<span style="background-color:green">       </span> |
 |Barrierefreie-Informationstechnik-Verordnung (BITV 2.0) |     |     |     | 
 |EU-Richtlinie 2016/2102                |     |     |     |
 |Barrierefreiheitsstärkungsgesetz (BFSG)  |     |     |     |
 
-
-<table>
-  <thead>
-    <tr>
-      <th>rechtliche Grundlage</th>
-      <th>rot</th>
-      <th>gelb</th>
-      <th>grün</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="background-color: #d4edda; color: #155724;">Erledigt</td>
-      <td>Dokumentation schreiben</td>
-    </tr>
-    <tr>
-      <td style="background-color: #f8d7da; color: #721c24;">Offen</td>
-      <td>Review abwarten</td>
-    </tr>
-  </tbody>
-</table>
 
 
 ## Die rechtlichen Grundlagen
